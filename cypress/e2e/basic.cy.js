@@ -4,6 +4,6 @@ describe('sample render test', () => {
   });
 
   it('displays the title text', () => {
-    cy.get('h1').contains('Next.js Blog Theme');
+    cy.get('h1').contains('May I Make You a S̵a̵n̵d̵w̵h̵i̵c̵h̵ Game');
   });
 });
