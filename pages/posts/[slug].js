@@ -16,6 +16,7 @@ import Footer from '../../components/Footer';
 import Header from '../../components/Header';
 import Layout, { GradientBackground } from '../../components/Layout';
 import SEO from '../../components/SEO';
+import YouTube from "react-youtube";
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
@@ -28,6 +29,7 @@ const components = {
   // See the notes in README.md for more details.
   Head,
   Image,
+  YouTube,
 };
 
 export default function PostPage({
