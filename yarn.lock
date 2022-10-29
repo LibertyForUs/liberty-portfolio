@@ -3126,13 +3126,6 @@
   "resolved" "https://registry.npmjs.org/image-meta/-/image-meta-0.1.1.tgz"
   "version" "0.1.1"
 
-"image-size@^1.0.2":
-  "integrity" "sha512-xfOoWjceHntRb3qFCrh5ZFORYH8XCdYpASltMhZ/Q0KZiOwjdE/Yl2QCiWdwD+lygV5bMCvauzgu5PxBX/Yerg=="
-  "resolved" "https://registry.npmjs.org/image-size/-/image-size-1.0.2.tgz"
-  "version" "1.0.2"
-  dependencies:
-    "queue" "6.0.2"
-
 "import-cwd@^3.0.0":
   "version" "3.0.0"
   dependencies:
@@ -5934,13 +5927,6 @@
   "resolved" "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz"
   "version" "1.2.3"
 
-"queue@6.0.2":
-  "integrity" "sha512-iHZWu+q3IdFZFX36ro/lKBkSvfkztY5Y7HMiPlOUjhupPcG2JMfst2KKEpu5XndviX/3UhFbRngUPNKtgvtZiA=="
-  "resolved" "https://registry.npmjs.org/queue/-/queue-6.0.2.tgz"
-  "version" "6.0.2"
-  dependencies:
-    "inherits" "~2.0.3"
-
 "quick-lru@^5.1.1":
   "integrity" "sha512-WuyALRjWPDGtt/wzJiadO5AXY+8hZ80hVpe6MyivgraREW751X3SbhRvG3eLKOYN+8VEvqLcf3wdnt44Z4S4SA=="
   "resolved" "https://registry.npmjs.org/quick-lru/-/quick-lru-5.1.1.tgz"
@@ -7245,7 +7231,7 @@
     "unist-util-is" "^4.0.0"
     "unist-util-visit-parents" "^3.0.0"
 
-"unist-util-visit@^4.0.0", "unist-util-visit@^4.1.1":
+"unist-util-visit@^4.0.0":
   "integrity" "sha512-n9KN3WV9k4h1DxYR1LoajgN93wpEi/7ZplVe02IoB4gH5ctI1AaF2670BLHQYbwj+pY83gFtyeySFiyMHJklrg=="
   "resolved" "https://registry.npmjs.org/unist-util-visit/-/unist-util-visit-4.1.1.tgz"
   "version" "4.1.1"
