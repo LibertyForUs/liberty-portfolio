@@ -2,6 +2,8 @@
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7636d89f-8a65-4268-881b-f07d3a132cf5/deploy-status)](https://app.netlify.com/sites/gentle-donut-47f8e8/deploys)
+
 A customizable blog starter using:
 
 - [Next.js](https://github.com/vercel/next.js) v12
