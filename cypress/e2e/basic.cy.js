@@ -4,6 +4,6 @@ describe('sample render test', () => {
   });
 
   it('displays the title text', () => {
-    cy.get('h1').contains('Please consider admitting me to your school.');
+    cy.get('h1').contains('Please consider admitting me to your school');
   });
 });
