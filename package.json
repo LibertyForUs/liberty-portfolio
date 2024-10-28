@@ -7,7 +7,7 @@
   ],
   "homepage": "https://iamlibertyandimake.games",
   "bugs": {
-    "url": "https://github.com/netlify-templates/nextjs-blog-theme/issues"
+    "url": "https://github.com/cortfritz/liberty-portfolio/issues"
   },
   "scripts": {
     "dev": "next",
