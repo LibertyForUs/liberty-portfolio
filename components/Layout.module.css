@@ -27,12 +27,13 @@
   background-size: 300% 300%;
   animation: moveGradient 25s ease-in-out infinite;
   max-height: 800px;
-  height: 80vh;
+  height: 100vh;
   max-width: 1400px;
   width: 100%;
   filter: blur(54px);
   z-index: -1;
-  position: absolute;
+  position: fixed;
+  top: 0;
 }
 
 .colorBackgroundBottom {
@@ -49,10 +50,11 @@
     radial-gradient(ellipse at 76% 46%, var(--color-gradient-1) 0, transparent 42%);
   background-size: 300% 300%;
   animation: moveGradient 30s ease-in-out infinite;
-  height: 600px;
+  height: 100vh;
   max-width: 900px;
   width: 100%;
   filter: blur(54px);
   z-index: -1;
-  position: absolute;
+  position: fixed;
+  bottom: 0;
 }
