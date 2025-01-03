@@ -17,6 +17,7 @@ import Header from '../../components/Header';
 import Layout, { GradientBackground } from '../../components/Layout';
 import SEO from '../../components/SEO';
 import YouTube from "react-youtube";
+import PullQuote from '../../components/PullQuote';
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how
@@ -30,6 +31,7 @@ const components = {
   Head,
   Image,
   YouTube,
+  PullQuote,
 };
 
 export default function PostPage({
